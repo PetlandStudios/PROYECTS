@@ -1,11 +1,14 @@
-# PETLAND STUDIOS
+# PETLAND: PROYECTOS
 
-Bienvenido a nuestro sitio web de proyectos. Aquí encontrarás información sobre nuestros proyectos actuales.
+Bienvenido a nuestro sitio web. En este especifico, solo USTEDES, los trabajadores, podran encontrarár información sobre nuestros proyectos actuales, o bocetos, ideas, etc...
 
-## Proyecto 1
+## Proyecto 1: SURVIVAL LORE
 
-AÑADIR LORE A PETLAND SURVIVAL, La idea, es añadir lore, de como era la vida antes de los humanos, etc...
+AÑADIR LORE A PETLAND SURVIVAL, La idea, es añadir lore, de como era la vida antes de los humanos, etc...:
 
-## Proyecto 2
+ (SE PONE LA INFORMACION) 
 
-Descripción del segundo proyecto.
+## Proyecto 2: NUEVO MINIJUEGO
+
+CIUDAD, es un minijuego, donde podras construirte tu casa, como en un mundo "CREATIVO" normal, pero aqui hay historia, podras aventurar el mapa, ir a zonas de pvp, etc...:
+ (INFORMACION SOBRE EL PROYECTO.
