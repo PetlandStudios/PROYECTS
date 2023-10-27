@@ -21,6 +21,6 @@ CIUDAD, es un minijuego, donde podras construirte tu casa, como en un mundo "CRE
 
 # PETLAND: IDEAS:
 
- ## IDEA 1: SERIE MINECRAFT
+## IDEA 1: SERIE MINECRAFT
  
  Tenemos en mente crear una serie no animada en el mundo de Minecraft, donde exploraríamos el lore de la ciudad y otros temas interesantes. También estamos considerando desarrollar una serie relacionada con PETLAND.
