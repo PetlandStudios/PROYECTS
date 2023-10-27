@@ -5,18 +5,22 @@ Bienvenido a nuestro sitio web. En este especifico, solo USTEDES, los trabajador
 
 ## Proyecto 1: SURVIVAL LORE
 
+Estado: En desarollo
+
 AÑADIR LORE A PETLAND SURVIVAL, La idea, es añadir lore, de como era la vida antes de los humanos, etc...:
 
  (SE PONE LA INFORMACION) 
 
 ## Proyecto 2: NUEVO MINIJUEGO
 
+Estado: En Progreso
+
 CIUDAD, es un minijuego, donde podras construirte tu casa, como en un mundo "CREATIVO" normal, pero aqui hay historia, podras aventurar el mapa, ir a zonas de pvp, etc...:
  (INFORMACION SOBRE EL PROYECTO.
 
 # PETLAND: IDEAS:
 
-Aqui estan las ideas, si ya las "autorizamos", pasaran a ser PROYECTOS.
+Aqui estan las ideas, si ya las "autorizamos", pasaran a ser PROYECTOS, como los de la SECCION anterior.
 
 ## IDEA 1: SERIE MINECRAFT
  
