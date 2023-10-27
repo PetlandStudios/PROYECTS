@@ -18,3 +18,7 @@ AÑADIR LORE A PETLAND SURVIVAL, La idea, es añadir lore, de como era la vida a
 
 CIUDAD, es un minijuego, donde podras construirte tu casa, como en un mundo "CREATIVO" normal, pero aqui hay historia, podras aventurar el mapa, ir a zonas de pvp, etc...:
  (INFORMACION SOBRE EL PROYECTO.
+
+# PETLAND: IDEAS:
+
+ Tenemos en mente crear una serie no animada en el mundo de Minecraft, donde exploraríamos el lore de la ciudad y otros temas interesantes. También estamos considerando desarrollar una serie relacionada con PETLAND.
