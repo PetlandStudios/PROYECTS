@@ -2,6 +2,12 @@
 
 Bienvenido a nuestro sitio web. En este especifico, solo USTEDES, los trabajadores, podran encontrarár información sobre nuestros proyectos actuales, o bocetos, ideas, etc...
 
+
+
+
+
+
+
 ## Proyecto 1: SURVIVAL LORE
 
 AÑADIR LORE A PETLAND SURVIVAL, La idea, es añadir lore, de como era la vida antes de los humanos, etc...:
